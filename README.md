@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Overview: The challenge is to build a recipe page according to given design
 
-- Solution URL: 
+- Solution URL: https://github.com/MayuriBorate115/Recipe-Page-Solution
 
 ## My process: Starting with analysing the style guid , assets and designs given and what will require to fullfill design requirements
 

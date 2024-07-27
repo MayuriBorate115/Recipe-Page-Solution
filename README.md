@@ -11,8 +11,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued Development]
-  - [Author]
+  - [Continued Development](#continued-development)
+  - [Author](#author)
 
 
 

@@ -20,23 +20,19 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Solution URL: https://github.com/MayuriBorate115/Recipe-Page-Solution
 
-## My process: Starting with analysing the style guid , assets and designs given and what will require to fullfill design requirements
+## My process: Starting with analysing the style guide,assets and designs given and what will be required to fullfill design requirements
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flex
-- Mobile-first workflow
+
 
 ### What I learned
 -How to make responsive designs
 -How to use flex
 -How to use lists in HTML
-
-### Continued development
--Integration on Javascript to increase interactivity
--Use frameworks for styling
 
 
 ## Author
